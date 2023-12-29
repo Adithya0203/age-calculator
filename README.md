@@ -1,8 +1,6 @@
-# Age Calculator
+# ToDoList App
 
-
-A Challenge by [Frontend Mentor]("https://www.frontendmentor.io/home")
-
+A challenge by [Frontend Mentor](https://www.frontendmentor.io/home) 
 
 ## Table of Contents
 - [Introduction](#introduction)
