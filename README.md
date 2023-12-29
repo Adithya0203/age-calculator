@@ -1,6 +1,6 @@
 # Age Calculator
 
-A Challenge by [Frontend Mentor]("https://www.frontendmentor.io/home") , coded using React
+A Challenge by [Frontend Mentor]("https://www.frontendmentor.io/home")
 
 ## Table of Contents
 - [Introduction](#introduction)
